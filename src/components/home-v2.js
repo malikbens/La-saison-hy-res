@@ -18,9 +18,6 @@ const Home_V1 = () => {
         <Explore />
         <FeaturedProperties />
         <Ads />
-        <PropertiesByCities />
-        <RecentProperties />
-        <FeaturedPorject />
         <WhyChooseUs />
         <OurPartner />
         <Footer />

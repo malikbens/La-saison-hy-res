@@ -50,11 +50,9 @@ class BannerV2 extends Component {
             <div className="container">
               <div className="banner-search-wrap">
                 <ul className="nav nav-tabs rld-banner-tab">
+                  
                   <li className="nav-item">
-                    <a className="nav-link active" data-toggle="tab" href="#tabs_1">For Buy</a>
-                  </li>
-                  <li className="nav-item">
-                    <a className="nav-link" data-toggle="tab" href="#tabs_2">For Rent</a>
+                    <a className="nav-link" data-toggle="tab" href="#tabs_2">Louer</a>
                   </li>
                 </ul>
                 <div className="tab-content">
