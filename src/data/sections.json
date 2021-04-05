@@ -2,7 +2,7 @@
   "banner":{
         "subtitle":"",
         "title1":"Location",
-        "title2":"HYERES",
+        "title2":"Saison'Hyères",
         "btntxt":"Découvrez nos annonces",
         "btnurl":"#",
         "videolink":"#https://www.youtube.com/watch?v=c7XEhXZ_rsk"
@@ -247,27 +247,27 @@
     "url": "/Registration"
   },
    "whychooseus":{
-    "title": "Why Choose Us",
+    "title": "Découvrez nos services ",
     "items":[
         {
           "icon": "assets/img/icons/11.png",
-          "title":"Sell, Rent Property Free",
+          "title":"Louez sur hyères et ses alentours ",
           "url":"#",
-          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta eros sed faucibus elementum.",
           "class":""
         },
         {
           "icon": "assets/img/icons/12.png",
-          "title":"In-depth Info on Investment Hotspots",
+          "title":"Notre service intendace ",
           "url":"#",
-          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta eros sed faucibus elementum",
           "class":"offset-xl-1"
         },
         {
           "icon": "assets/img/icons/13.png",
-          "title":"Pool of Best Property Options",
+          "title":"Conciergerie ",
           "url":"#",
-          "content":"Our experts answer all queries with their unmatched knowledge at every step of home buying.",
+          "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta eros sed faucibus elementum",
           "class":"offset-xl-1"
         }
 

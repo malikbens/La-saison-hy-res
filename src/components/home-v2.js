@@ -15,10 +15,10 @@ const Home_V1 = () => {
     return <div>
         <Navbar />
         <Bannerv2 />
+        <WhyChooseUs />
         <Explore />
         <FeaturedProperties />
         <Ads />
-        <WhyChooseUs />
         <OurPartner />
         <Footer />
     </div>
