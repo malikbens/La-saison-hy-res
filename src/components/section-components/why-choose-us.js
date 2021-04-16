@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import sectiondata from '../../data/sections.json';
 import parse from 'html-react-parser';
+import { Link } from 'react-router-dom';
 
 class WhyChooseUs extends Component {
 
@@ -33,7 +34,8 @@ class WhyChooseUs extends Component {
 
           )}
         </div>
-        <div><button type="button" class="btn btn-primary btn-lg more-info">En savoir plus </button></div>
+        <Link class="btn btn-primary btn-lg more-info" to="about">En savoir plus </Link>
+        
       </div>
       
     </div>

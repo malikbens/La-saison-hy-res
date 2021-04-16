@@ -19,7 +19,7 @@ class Navbar extends Component {
                 </button>
               </div>
               <div className="logo readeal-top">
-                LOGO
+                Flamin'GO
                     </div>
               <div className="nav-right-part nav-right-part-mobile">
                 <Link className="btn btn-yellow" to="/add-property">ADD LISTING <span className="right"><i className="la la-plus" /></span></Link>
@@ -32,6 +32,7 @@ class Navbar extends Component {
                   <li className="menu-item-has-children">
                     <a href="#">Services</a>
                     <ul className="sub-menu">
+                  
                       <li><Link to="/About">A propos</Link></li>
                       <li><Link to="/advisor">Partenaires</Link></li>
 

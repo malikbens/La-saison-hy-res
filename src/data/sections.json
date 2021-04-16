@@ -55,36 +55,30 @@
       ]
   },
   "explore":{
-    "title": "Explore the Neighborhoods",
+    "title": "Découvrez les alentours ...",
     "items":[
         {
-          "city": "New York",
-          "image": "assets/img/explore/1.png",
-          "url": "#",
+          "city": "La Londe-les-Maures",
+          "image": "assets/img/explore/londe.png",
+          "url": "https://www.ville-lalondelesmaures.fr/",
           "lisgintnumber": "102",
           "price": "60000"
         },
         {
-          "city": "United Stade",
-          "image": "assets/img/explore/2.png",
-          "url": "#",
+          "city": "Carqueiranne",
+          "image": "assets/img/explore/carqueiranne.png",
+          "url": "https://www.hyeres-tourisme.com/commerces-et-services/office-de-tourisme-de-carqueiranne/",
           "lisgintnumber": "201",
           "price": "80000"
         },
         {
-          "city": "San Srancisco",
-          "image": "assets/img/explore/3.png",
-          "url": "#",
+          "city": "Le Lavandou",
+          "image": "assets/img/explore/lavandou.png",
+          "url": "https://www.ot-lelavandou.fr/",
           "lisgintnumber": "85",
           "price": "30000"
-        },
-        {
-          "city": "Las Vegas",
-          "image": "assets/img/explore/4.png",
-          "url": "#",
-          "lisgintnumber": "115",
-          "price": "70000"
         }
+        
 
       ]
   }, 
@@ -994,15 +988,15 @@
       "items":[
           {
             "number":"01",
-            "title":"Our Mission",
+            "title":"Interlocuteur privilégié ",
             "url":"#",
-            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi"
+            "content":"Durant votre séjour je serais disponible H 24 et 7 jours / 7 A votre écoute et réactive  !"
           },
           {
             "number":"02",
-            "title":"Our Approach",
+            "title":"Fort d'expérience",
             "url":"#",
-            "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae venenatis mi",
+            "content":"Plus de 13 ans d'expériences dans l'immobilier et la location saisonière ",
             "class":"offset-xl-1"
           },
           {
@@ -1320,9 +1314,9 @@
       ]
   },
     "aboutus":{
-      "subtitle":"About Us",
-      "title":"We Are Dynamic Team And Business Agency",
-      "content":"Hand selected, local experienced agents, and neighborhood specialists, work with you to achieve your goals. The highest level of market knowledge, transparency, technology utilization, and transaction experience.",
+      "subtitle":"A propos de moi ",
+      "title":"Votre seule et unique interlocutrice :",
+      "content":"Cindy RICCI, négociatrice en immobilier depuis 2007, ayant un BTS profession immobilière j’ai su mettre en pratique toutes mes connaissances et compétences aux services de mes clients et de mes partenaires.Aimant le contact humain et les voyages à travers le monde, j’ai décidé de créer LA LOCATION SAISON’HYERES afin d'accueillir des voyageurs, en proposant des logements saisonniers ainsi que des excursions pour faire découvrir notre région et ses bons plans !Durant votre séjour je serais disponible H 24 et 7 jours / 7, à votre écoute et réactive ! Au plaisir de vous recevoir et de vous faire découvrir notre belle région !Comme disait notre bon vieux Jack :“ Une fois de plus, nos valises cabossées s’empilaient sur le trottoir; on avait du chemin devant nous. Mais qu’importe : La route c’est la vie ! “Sur la route (1957) de Jack Kerouac.",
       "btn_text":"More Service",
       "url":"#",
       "image":"assets/img/others/7.png"
@@ -1396,31 +1390,55 @@
   },
     "servicetwo":{
       "subtitle":"Best Service",
-      "title":"Service We Provide",
+      "title":"Nos services ",
       "content1":"WPartner with a top neighborhood specialist to sell your home. Combined",
       "content2":"with our high level marketing approach, negotiation skills,",
       "items":[
           {
-            "title":"Our Marketing Analaysis",
-            "content1":"Describe your home online and get ",
-            "content2":"your appraisal in 5 minutes",
-            "icon":"assets/img/icons/19.png",
+            "title":"H24/7j7",
+            "content1":"",
+            "content2":"",
+            "icon":"assets/img/icons/clock.png",
             "btntxt":"Read More",
             "url":"#"
           },
           {
-            "title":"Business Consultancy",
-            "content1":"Describe your home online and get ",
-            "content2":"your appraisal in 5 minutes",
-             "icon":"assets/img/icons/20.png",
+            "title":"Photos",
+            "content1":"",
+            "content2":"",
+             "icon":"assets/img/icons/camera.png",
             "btntxt":"Read More",
             "url":"#"
           },
           {
-            "title":"Business planing",
-            "content1":"Describe your home online and get ",
-            "content2":"your appraisal in 5 minutes",
-             "icon":"assets/img/icons/21.png",
+            "title":"Check-in/out",
+            "content1":"Remise des clefs",
+            "content2":"",
+             "icon":"assets/img/icons/keys.png",
+            "btntxt":"Read More",
+            "url":"#"
+          },
+          {
+            "title":"Rentabilité",
+            "content1":"rentabilité de votre bien ",
+            "content2":"",
+             "icon":"assets/img/icons/euro.png",
+            "btntxt":"Read More",
+            "url":"#"
+          },
+          {
+            "title":"Intendance",
+            "content1":"- Ménage",
+            "content2":"- Linge drap",
+             "icon":"assets/img/icons/cleaning.png",
+            "btntxt":"Read More",
+            "url":"#"
+          },
+          {
+            "title":"Travaux",
+            "content1":"Petits et moyens travaux",
+            "content2":"",
+             "icon":"assets/img/icons/settings.png",
             "btntxt":"Read More",
             "url":"#"
           }
@@ -1759,7 +1777,7 @@
   "searchlist":{
       "items":[
         {
-          "title": "Jason Landville Apartment",
+          "title": "Jaso Landville Apartment",
           "image": "assets/img/feature/l1.png",
           "icon":"assets/img/icons/l3.png",
           "url": "/property-details",
@@ -1785,7 +1803,7 @@
           "icon":"assets/img/icons/l3.png",
          "url": "/property-details",
           "olderprice": "$790/mo",
-          "newerprice": "$350/mo",
+          "newerprice": "$35/mo",
           "area":"1898 sq.",
           "authorname":"Vilma Jarvi By Redbrox",
           "cat":"cat2 cat3",
@@ -1823,6 +1841,27 @@
         },
         {
           "title": "Jason Landville Apartment",
+          "image": "assets/img/feature/l4.png",
+          "icon":"assets/img/icons/l2.png",
+         "url": "/property-details",
+          "olderprice": "$790/mo",
+          "newerprice": "$350/mo",
+          "area":"1898 sq.",
+          "authorname":"Vilma Jarvi By Redbrox",
+          "cat":"cat2 cat3 cat4",
+          "features":[
+            {
+              "icon":"fa fa-bed",
+              "title":"05 Bed"
+            },
+            {
+              "icon":"fa fa-bath",
+              "title":"02 Bath"
+            }
+          ]
+        },
+        {
+          "title": "Salit",
           "image": "assets/img/feature/l4.png",
           "icon":"assets/img/icons/l2.png",
          "url": "/property-details",

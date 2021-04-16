@@ -60,22 +60,22 @@
     ]
   },
   "quicklink": {
-    "title": "Quick Links",
+    "title": "Liens rapide",
     "links": [
       {
-        "title": "Pricing Plans",
-        "url": "/pricing"
+        "title": "Annonces",
+        "url": "/search-list"
       },
       {
-        "title": "FAQ",
-        "url": "/faq"
+        "title": "Partenaires",
+        "url": "/advisor"
       },
       {
-        "title": "About Us",
+        "title": "A propos",
         "url": "/About"
       },
       {
-        "title": "Contact Us",
+        "title": "Contactez-nous",
         "url": "/contact"
       }
     ]

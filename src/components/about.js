@@ -15,8 +15,6 @@ const About = () => {
         <Mission />
         <AboutUs />
         <ServiceTwo />
-        <Team />
-        <Client />
         <Footer />
     </div>
 }

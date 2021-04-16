@@ -124,7 +124,7 @@ class SearchList extends Component {
                             </a>
                            <p className="author"><i className="fa fa-user" /> { item.authorname }</p>
                                <h6 className="title readeal-top"><Link to={ item.url }>{ item.title }</Link></h6>
-                            <h6 className="price">$350/mo</h6><del>$790/mo</del>
+                            <h6 className="price">$35/mo</h6><del>$790/mo</del>
                             <ul className="info-list">
                               { item.features.map( ( features, i )=>
                                 <li key={ i } ><i className={ features.icon } /> { features.title }</li>

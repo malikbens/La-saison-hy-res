@@ -4449,6 +4449,9 @@
 }
 
 .owl-carousel .owl-item {
+    a
+    cursor:grab;
+    width: 250px;
     position: relative;
     min-height: 1px;
     float: left;

@@ -19,18 +19,15 @@ class Explore extends Component {
         </div>
         <div className="row">
         { data.items.map( ( item, i )=>
-            <div key={ i } className="col-lg-3 col-sm-6">
+            <div key={ i } className="col-lg-4 col-sm-6">
             <div className="single-explore">
               <div className="thumb">
                 <img src={ publicUrl+item.image } alt="explore" />
-                <a href="#"><i className="fa fa-paper-plane" /></a>
+                
               </div>
               <div className="details readeal-top">
-                <h4><Link to="/properties-by-city">{ item.city }</Link></h4>
-                <ul className="list">
-                  <li><img src={publicUrl +"/assets/img/icons/1.png"} alt="icona" />Listings: { item.lisgintnumber }</li>
-                  <li><i className="fa fa-usd" />Price: ${ item.price }</li>
-                </ul>
+                <h4><Link to={item.url}>{ item.city }</Link></h4>
+                
               </div>
             </div>
           </div>

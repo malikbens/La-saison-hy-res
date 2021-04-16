@@ -11,7 +11,7 @@ class ServiceTwo extends Component {
         let imagealt = 'image'
         let data = sectiondata.servicetwo
         const inlineStyle = {
-               backgroundImage: 'url('+publicUrl+'/assets/img/bg/5.png)'
+               backgroundImage: 'url('+publicUrl+'/assets/img/bg/house.png)'
         }
 
 
@@ -30,9 +30,9 @@ class ServiceTwo extends Component {
                       <img src={publicUrl+item.icon} alt={ imagealt } />
                     </div>
                     <div className="details">
-                      <h4 className="title"><a href={ item.url }>{ item.title }</a></h4>
+                      <h4 className="title">{ item.title }</h4>
                       <p>{ item.content1 } <br /> { item.content2 }</p>
-                      <a className="read-more" href={ item.url }>{ item.btntxt }</a>
+                      
                     </div>
                   </div>
               </div>
